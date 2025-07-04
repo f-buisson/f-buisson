@@ -1,27 +1,54 @@
-# 👋 Welcome to my GitHub profile!
+<!-- GitHub profile README – Fabien Buisson -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/f-buisson/plushie-breathe-with-me/main/images/Plushie%20-%20breathe%20with%20me%20SCHEMA.jpg"
+       alt="Plushie schematic" width="220"/>
+</p>
 
-I’m a citizen inventor passionate about **low-tech**, **open-source**, and **accessible** solutions.  
-All my projects aim to solve real-world needs using simple yet ingenious methods.
+# 👋 Hey, I’m **Fabien Buisson**
 
----
-
-## 🚀 My flagship project:
-
-### 🔷 SCGFAMP  
-A **Cyclic Gravito-Flotation System with Passive Magnetic Assistance**, capable of pumping water or generating energy without electricity.  
-🧠 Combines gravity, buoyancy, permanent magnets, and a passive fluid & gas management system.  
-📜 License:  
-- **Non-commercial use**: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
-- **Commercial use**: Available via **LemonSqueezy**
+🛠️ _Citizen-inventor_ · low-tech & open design · based in France  
+💌 **Contact** • fbuisson38550@gmail.com | scgfamp@hotmail.com | 🌐 [scgfamp.org](https://scgfamp.org)
 
 ---
 
-## 🌍 My commitments
+## 🚀 Current live projects
 
-- ✅ Open source for non-commercial use  
-- 🔄 Continuous improvement & community sharing  
-- 🤝 Open to collaboration!
+| Project | TL;DR | Status | Docs |
+|---------|-------|--------|------|
+| **🎈 Plushie – breathe with me** | Interactive plush that “breathes”, stops, then revives with chest compressions. Teaches calm breathing & CPR. | **Active / looking for makers** | [Repo](https://github.com/f-buisson/plushie-breathe-with-me) • [Tech overview](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/tech/DOUDOU_TECH_OVERVIEW.md) |
+| **♻️ SCGFAMP** | Cyclic gravito-flotation pump with passive magnets. | **🔒 Archived (July 2025)** | [Archived repo](https://github.com/f-buisson/SCGFAMP-ARCHIVED) • [Reddit critique](https://www.reddit.com/r/lowtech/comments/1lq7z74/) |
+
+> 🇫🇷 _Voir plus bas pour le résumé en français._
 
 ---
 
-🛠 This profile is under construction. Come back soon to see more published projects.
+## 💼 Commercial use ?
+
+- **Non-commercial**: CC-BY-NC 4.0 ✔️  
+- **Commercial licence**: 4 000 €/year (covers **all** my repos) →  
+  [Buy on LemonSqueezy](https://f-buisson.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f769aad) • PDF sample: [`COMMERCIAL_LICENSE_EN.md`](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/governance/COMMERCIAL_LICENSE_EN.md)  
+
+*(Automated delivery by Zapier + LemonSqueezy)*
+
+---
+
+## 🧩 What I’m looking for
+
+- 🛠️ **Maker / FabLab** partners for _Plushie_ prototype (mechanics, sewing, micro-pump).  
+- 🤝 Translators & educators.  
+- 🎓 Any feedback, forks, or wild ideas!
+
+---
+
+## 🇫🇷 Résumé rapide
+
+| Projet | Description |
+|--------|-------------|
+| **Plushie – Respire avec moi** | Doudou biomimétique qui respire, s’éteint et se “réanime” par un petit massage cardiaque → outil pédagogique & réconfortant. |
+| **SCGFAMP (archivé)** | Système gravito-flottant expérimental ; trop complexe à industrialiser pour l’instant, mais libre à l’étude. |
+
+Licence non-commerciale **CC-BY-NC 4.0**, licence commerciale unique 4 000 €/an (inclut tous mes dépôts).
+
+---
+
+_Thanks for passing by — stars, issues and PR are welcome!_
