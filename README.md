@@ -1,9 +1,3 @@
-<!-- GitHub profile README – Fabien Buisson -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/f-buisson/plushie-breathe-with-me/main/images/Plushie%20-%20breathe%20with%20me%20SCHEMA.jpg"
-       alt="Plushie schematic" width="220"/>
-</p>
-
 # 👋 Hey, I’m **Fabien Buisson**
 
 🛠️ _Citizen-inventor_ · low-tech & open design · based in France  
