@@ -18,7 +18,7 @@
 
 ## 💼 Commercial use ?
 
-- **Non-commercial**: CC-BY-NC 4.0 ✔️  
+- **Non-commercial**: CERN-OHL-S-2.0 / CC-BY-NC-SA-4.0 ✔️  
 - **Commercial licence**: 4 000 €/year (covers **all** my repos) →  
   [Buy on LemonSqueezy](https://f-buisson.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f769aad) • PDF sample: [`COMMERCIAL_LICENSE_EN.md`](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/governance/COMMERCIAL_LICENSE_EN.md)  
 
