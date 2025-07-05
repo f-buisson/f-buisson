@@ -41,7 +41,7 @@
 | **Plushie – Respire avec moi** | Doudou biomimétique qui respire, s’éteint et se “réanime” par un petit massage cardiaque → outil pédagogique & réconfortant. |
 | **SCGFAMP (archivé)** | Système gravito-flottant expérimental ; trop complexe à industrialiser pour l’instant, mais libre à l’étude. |
 
-Licence non-commerciale **CC-BY-NC 4.0**, licence commerciale unique 4 000 €/an (inclut tous mes dépôts).
+Licence non-commerciale **CERN-OHL-S-2.0 / CC-BY-NC-SA-4.0**, licence commerciale unique 4 000 €/an (inclut tous mes dépôts).
 
 ---
 
