@@ -23,7 +23,7 @@
 
 - **Non-commercial**: CERN-OHL-S-2.0 / CC-BY-NC-SA-4.0 ✔️  
 - **Commercial licence**: 4 000 €/year (covers **all** my repos) →  
-  [Buy on LemonSqueezy]([https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f769aad](https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad)) • PDF sample: [`COMMERCIAL_LICENSE_EN.md`](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/governance/COMMERCIAL_LICENSE_EN.md)  
+  [Buy on LemonSqueezy](https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad) • PDF sample: [`COMMERCIAL_LICENSE_EN.md`](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/governance/COMMERCIAL_LICENSE_EN.md)  
 
 *(Automated delivery by Zapier + LemonSqueezy)*
 
