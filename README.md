@@ -1,51 +1,58 @@
+<div align="center">
+
 [![Dual Licence](https://img.shields.io/badge/License-Dual%20%7C%20CERN--OHL--S%20%2B%20CC--BY--NC--SA_4.0-blue)](governance/DUAL_LICENSE.md)
-[![Commercial](https://img.shields.io/badge/Commercial%20Use-€4000/yr-blue)](governance/COMMERCIAL_LICENSE_EN.md)
+[![Commercial](https://img.shields.io/badge/Commercial%20Use-€4000%2Fyr-blue)](governance/COMMERCIAL_LICENSE_EN.md)
 
 # 👋 Hey, I’m **Fabien Buisson**
 
 🛠️ _Citizen-inventor_ · low-tech & open design · based in France  
-💌 **Contact** • fbuisson38550@gmail.com | scgfamp@hotmail.com | 🌐 [scgfamp.org](https://scgfamp.org)
+💌 **Contact** • fbuisson38550@gmail.com | scgfamp@hotmail.com • 🌐 [scgfamp.org](https://scgfamp.org)
+
+</div>
 
 ---
 
-## 🚀 Current live projects
+## 🚀 Live projects
 
 | Project | TL;DR | Status | Docs |
 |---------|-------|--------|------|
-| **🎈 Plushie – breathe with me** | Interactive plush that “breathes”, stops, then revives with chest compressions. Teaches calm breathing & CPR. | **Active / looking for makers** | [Repo](https://github.com/f-buisson/plushie-breathe-with-me) • [Tech overview](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/tech/DOUDOU_TECH_OVERVIEW.md) |
-| **♻️ SCGFAMP** | Cyclic gravito-flotation pump with passive magnets. | **🔒 Archived (July 2025)** | [Archived repo](https://github.com/f-buisson/SCGFAMP-ARCHIVED) • [Reddit critique](https://www.reddit.com/r/lowtech/comments/1lq7z74/) |
+| **🎈 Plushie – breathe with me** | Interactive plush that breathes, stops, then revives with chest compressions (calm-breathing & CPR tool). | **Active • makers welcome** | [Repo](https://github.com/f-buisson/plushie-breathe-with-me) · [Tech overview](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/tech/DOUDOU_TECH_OVERVIEW.md) |
+| **🌀 Morph0** | Modular morphing object : rods + inflatable cushions → shape-shifting platform (pillow, handle, stand…). | **Concept / R&D open** | [Repo](https://github.com/f-buisson/Morph0) · [Concept doc](https://github.com/f-buisson/Morph0/blob/main/docs/MORPH0_PROJECT.md) |
+| **♻️ SCGFAMP** | Cyclic gravito-flotation pump with passive magnets. | **🔒 Archived (Jul 2025)** | [Archive](https://github.com/f-buisson/SCGFAMP-ARCHIVED) · [Reddit critique](https://www.reddit.com/r/lowtech/comments/1lq7z74/) |
 
-> 🇫🇷 _Voir plus bas pour le résumé en français._
-
----
-
-## 💼 Commercial use ?
-
-- **Non-commercial**: CERN-OHL-S-2.0 / CC-BY-NC-SA-4.0 ✔️  
-- **Commercial licence**: 4 000 €/year (covers **all** my repos) →  
-  [Buy on LemonSqueezy](https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad) • PDF sample: [`COMMERCIAL_LICENSE_EN.md`](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/governance/COMMERCIAL_LICENSE_EN.md)  
-
-*(Automated delivery by Zapier + LemonSqueezy)*
+> 🇫🇷 _Résumé français plus bas._
 
 ---
 
-## 🧩 What I’m looking for
+## 💼 Commercial use  
 
-- 🛠️ **Maker / FabLab** partners for _Plushie_ prototype (mechanics, sewing, micro-pump).  
-- 🤝 Translators & educators.  
-- 🎓 Any feedback, forks, or wild ideas!
+- **Non-commercial** → CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0 ✔️  
+- **Commercial licence** → € 4 000 / year (covers **all** my repos)  
+  – instant delivery on LemonSqueezy →  
+  <https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad>  
+  Sample PDF → [`COMMERCIAL_LICENSE_EN.md`](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/governance/COMMERCIAL_LICENSE_EN.md)
+
+---
+
+## 🧩 Looking for…
+
+- 🛠️ **FabLab / maker** partners (Plushie mechanics, sewing, micro-pump).  
+- 🎮 Soft-robotics or BLE devs for **Morph0**.  
+- 🌍 Translators, educators, feedback—all welcome!
 
 ---
 
 ## 🇫🇷 Résumé rapide
 
-| Projet | Description |
-|--------|-------------|
-| **Plushie – Respire avec moi** | Doudou biomimétique qui respire, s’éteint et se “réanime” par un petit massage cardiaque → outil pédagogique & réconfortant. |
-| **SCGFAMP (archivé)** | Système gravito-flottant expérimental ; trop complexe à industrialiser pour l’instant, mais libre à l’étude. |
+| Projet | Description & état |
+|--------|--------------------|
+| **Plushie – Respire avec moi** | Doudou biomimétique qui respire, “s’éteint” puis se réanime via massage cardiaque ; outil pédagogique & réconfortant. **Actif – recherche makers**. |
+| **Morph0** | Objet modulaire à tiges + coussins gonflables capable de changer de forme (poignée, coussin, support, jouet). **Concept en R&D ouverte**. |
+| **SCGFAMP (archivé)** | Pompe gravito-flottante cyclique expérimentale ; complexe à industrialiser pour l’instant, mais libre à l’étude. |
 
-Licence non-commerciale **CERN-OHL-S-2.0 / CC-BY-NC-SA-4.0**, licence commerciale unique 4 000 €/an (inclut tous mes dépôts).
+Licence non-commerciale **CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0**,  
+licence commerciale unique **4 000 €/an** (couvre tous les dépôts).
 
 ---
 
-_Thanks for passing by — stars, issues and PR are welcome!_
+_Thanks for passing by — stars, issues and PRs are welcome!_
