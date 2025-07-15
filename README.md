@@ -49,7 +49,7 @@
 |--------|--------------------|
 | **Plushie – Respire avec moi** | Doudou biomimétique qui respire, “s’éteint” puis se réanime via massage cardiaque ; outil pédagogique & réconfortant. **Actif – recherche makers**. |
 | **Morph0** | Objet modulaire à tiges + coussins gonflables capable de changer de forme (poignée, coussin, support, jouet). **Concept en R&D ouverte**. |
-| **🛒 Solidarity Shopping Cart (aka Trolley)** | Caddie mécanique solidaire : énergie récupérée des petits trajets pour aider les gros chargements. **Concept publié • open hardware**. |
+| **🛒 Solidarity Shopping Cart (aka Trolley)** | Caddie mécanique solidaire : énergie récupérée des petits caddies pour aider les futurs gros caddies. **Concept publié • open hardware**. |
 | **SCGFAMP (archivé)** | Pompe gravito-flottante cyclique expérimentale ; complexe à industrialiser pour l’instant, mais libre à l’étude. |
 
 Licence non-commerciale **CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0**,  
