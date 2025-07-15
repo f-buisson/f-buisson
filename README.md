@@ -18,6 +18,7 @@
 |---------|-------|--------|------|
 | **🎈 Plushie – breathe with me** | Interactive plush that breathes, stops, then revives with chest compressions (calm-breathing & CPR tool). | **Active • makers welcome** | [Repo](https://github.com/f-buisson/plushie-breathe-with-me) · [Tech overview](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/tech/DOUDOU_TECH_OVERVIEW.md) |
 | **🌀 Morph0** | Modular morphing object : rods + inflatable cushions → shape-shifting platform (pillow, handle, stand…). | **Concept / R&D open** | [Repo](https://github.com/f-buisson/Morph0) · [Concept doc](https://github.com/f-buisson/Morph0/blob/main/docs/MORPH0_PROJECT.md) |
+| **🛒 Solidarity Shopping Cart (aka Trolley)** | Mechanical mutual-aid cart: energy recovered from light users helps next heavy users (low-tech, no electronics). | **Concept published • open hardware** | [Repo](https://github.com/f-buisson/Solidarity-Shopping-Cart-aka-Trolley) |
 | **♻️ SCGFAMP** | Cyclic gravito-flotation pump with passive magnets. | **🔒 Archived (Jul 2025)** | [Archive](https://github.com/f-buisson/SCGFAMP-ARCHIVED) · [Reddit critique](https://www.reddit.com/r/lowtech/comments/1lq7z74/) |
 
 > 🇫🇷 _Résumé français plus bas._
@@ -48,6 +49,7 @@
 |--------|--------------------|
 | **Plushie – Respire avec moi** | Doudou biomimétique qui respire, “s’éteint” puis se réanime via massage cardiaque ; outil pédagogique & réconfortant. **Actif – recherche makers**. |
 | **Morph0** | Objet modulaire à tiges + coussins gonflables capable de changer de forme (poignée, coussin, support, jouet). **Concept en R&D ouverte**. |
+| **🛒 Solidarity Shopping Cart (aka Trolley)** | Caddie mécanique solidaire : énergie récupérée des petits trajets pour aider les gros chargements. **Concept publié • open hardware**. |
 | **SCGFAMP (archivé)** | Pompe gravito-flottante cyclique expérimentale ; complexe à industrialiser pour l’instant, mais libre à l’étude. |
 
 Licence non-commerciale **CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0**,  
