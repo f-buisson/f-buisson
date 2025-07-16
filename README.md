@@ -28,7 +28,7 @@
 ## 💼 Commercial use  
 
 - **Non-commercial** → CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0 ✔️  
-- **Commercial licence** → € 4 000 / year (covers **all** my repos)  
+- **Commercial licence** → € 4 000 / year (covers **all** my repos)  / with the promo code: PROMO100, get 99% off for the first 100 orders
   – instant delivery on LemonSqueezy →  
   <https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad>  
   Sample PDF → [`COMMERCIAL_LICENSE_EN.md`](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/governance/COMMERCIAL_LICENSE_EN.md)
