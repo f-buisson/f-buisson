@@ -20,6 +20,7 @@
 | **🌀 Morph0** | Modular morphing object : rods + inflatable cushions → shape-shifting platform (pillow, handle, stand…). | **Concept / R&D open** | [Repo](https://github.com/f-buisson/Morph0) · [Concept doc](https://github.com/f-buisson/Morph0/blob/main/docs/MORPH0_PROJECT.md) |
 | **🛒 Solidarity Shopping Cart (aka Trolley)** | Mechanical mutual-aid cart: energy recovered from light users helps next heavy users (low-tech, no electronics). | **Concept published • open hardware** | [Repo](https://github.com/f-buisson/Solidarity-Shopping-Cart-aka-Trolley) |
 | **🌱 Plant-powered Dynamo** | Educational/artistic experiment: plant growth drives ultra-slow pulley + dynamo (symbolic mechanical harvesting). | **Experimental / documentation published** | [Repo](https://github.com/f-buisson/Plant-powered_Dynamo) |
+| **🧲 Energy Curtain** | Transparent flexible curtain with self-closing magnets and micro-dynamos: recover micro-energy from pedestrian flow. | **Experimental / documentation published** | [Repo](https://github.com/f-buisson/Energy-Curtain) |
 | **♻️ SCGFAMP** | Cyclic gravito-flotation pump with passive magnets. | **🔒 Archived (Jul 2025)** | [Archive](https://github.com/f-buisson/SCGFAMP-ARCHIVED) · [Reddit critique](https://www.reddit.com/r/lowtech/comments/1lq7z74/) |
 
 > 🇫🇷 _Résumé français plus bas._
@@ -52,6 +53,7 @@
 | **Morph0** | Objet modulaire à tiges + coussins gonflables capable de changer de forme (poignée, coussin, support, jouet). **Concept en R&D ouverte**. |
 | **🛒 Solidarity Shopping Cart (aka Trolley)** | Caddie mécanique solidaire : énergie récupérée des petits caddies pour aider les futurs gros caddies. **Concept publié • open hardware**. |
 | **🌱 Plant-powered Dynamo** | Expérimentation pédagogique/artistique : croissance lente des plantes pour entraîner une dynamo symbolique. **Expérimental – documentation publiée**. |
+| **🧲 Energy Curtain** | Paroi textile semi-transparente auto-réparatrice avec mini-dynamos : récupère symboliquement l’énergie des passages piétons. **Expérimental – documentation publiée**. |
 | **SCGFAMP (archivé)** | Pompe gravito-flottante cyclique expérimentale ; complexe à industrialiser pour l’instant, mais libre à l’étude. |
 
 Licence non-commerciale **CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0**,  
