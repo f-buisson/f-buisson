@@ -30,7 +30,7 @@
 ## 💼 Commercial use  
 
 - **Non-commercial** → CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0 ✔️  
-- **Commercial licence** → € 4 000 / year (covers **all** my repos)  / with the promo code: PROMO10, get 99% off for the first 10 orders
+- **Commercial licence** → € 4 000 / year (covers **all** my repos)  / with the promo code: FIRST, get 99% off for the first buyer
   – instant delivery on LemonSqueezy →  
   <https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad>  
   Sample PDF → [`COMMERCIAL_LICENSE_EN.md`](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/governance/COMMERCIAL_LICENSE_EN.md)
@@ -57,7 +57,7 @@
 | **SCGFAMP (archivé)** | Pompe gravito-flottante cyclique expérimentale ; complexe à industrialiser pour l’instant, mais libre à l’étude. |
 
 Licence non-commerciale **CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0**,  
-licence commerciale unique **4 000 €/an** (couvre tous les dépôts). (code promo : PROMO100 , 99% de réduction pour les 100 premiers achats)
+licence commerciale unique **4 000 €/an** (couvre tous les dépôts). (code promo : FIRST , 99% de réduction pour le premier achateur)
 
 ---
 
