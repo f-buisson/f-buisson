@@ -57,7 +57,7 @@
 | **SCGFAMP (archivé)** | Pompe gravito-flottante cyclique expérimentale ; complexe à industrialiser pour l’instant, mais libre à l’étude. |
 
 Licence non-commerciale **CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0**,  
-licence commerciale unique **4 000 €/an** (couvre tous les dépôts). (code promo : FIRST , 99% de réduction pour le premier achateur)
+licence commerciale unique **4 000 €/an** (couvre tous les dépôts). (code promo : FIRST , 99% de réduction pour le premier acheteur)
 
 ---
 
