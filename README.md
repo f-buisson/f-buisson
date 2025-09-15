@@ -41,6 +41,7 @@
 ## 🧩 Looking for…
 
 - 🛠️ **FabLab / maker** partners (Plushie mechanics, sewing, micro-pump).  
+- 🔥 DIYers & engineers for **Solar Flare** (folding mirrors, compact design, thermal safety).  
 - 🎮 Soft-robotics or BLE devs for **Morph0**.  
 - 🌍 Translators, educators, feedback—all welcome!
 
