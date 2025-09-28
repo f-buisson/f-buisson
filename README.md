@@ -51,7 +51,7 @@
 
 | Projet | Description & état |
 |--------|--------------------|
-| **🔆 Solar Flare** | Concentrateur solaire pliable (lentille de Fresnel + miroirs paraboliques). Version V1 fonctionnelle en prototype expérimental. |
+| **🔆 Solar Flare** | Concentrateur solaire pliable (lentille de Fresnel + miroirs paraboliques). Version V1.1 fonctionnelle en prototype expérimental. |
 | **Plushie – Respire avec moi** | Doudou biomimétique qui respire, “s’éteint” puis se réanime via massage cardiaque ; outil pédagogique & réconfortant. **Actif – recherche makers**. |
 | **Morph0** | Objet modulaire à tiges + coussins gonflables capable de changer de forme (poignée, coussin, support, jouet). **Concept en R&D ouverte**. |
 | **🛒 Solidarity Shopping Cart (aka Trolley)** | Caddie mécanique solidaire : énergie récupérée des petits caddies pour aider les futurs gros caddies. **Concept publié • open hardware**. |
