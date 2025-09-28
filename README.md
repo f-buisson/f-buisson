@@ -16,7 +16,7 @@
 
 | Project | TL;DR | Status | Docs |
 |---------|-------|--------|------|
-| **🔆 Solar Flare** | Foldable solar concentrator (Fresnel lens + parabolic mirrors). V1 prototype, functional but experimental. | **Prototype V1 • open hardware** | [Repo](https://github.com/f-buisson/Solar-Flare) |
+| **🔆 Solar Flare** | Foldable solar concentrator (Fresnel lens + parabolic mirrors). V1 prototype, functional but experimental. | **Prototype V1.1 • open hardware** | [Repo](https://github.com/f-buisson/Solar-Flare) |
 | **🎈 Plushie – breathe with me** | Interactive plush that breathes, stops, then revives with chest compressions (calm-breathing & CPR tool). | **Active • makers welcome** | [Repo](https://github.com/f-buisson/plushie-breathe-with-me) · [Tech overview](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/tech/DOUDOU_TECH_OVERVIEW.md) |
 | **🌀 Morph0** | Modular morphing object : rods + inflatable cushions → shape-shifting platform (pillow, handle, stand…). | **Concept / R&D open** | [Repo](https://github.com/f-buisson/Morph0) · [Concept doc](https://github.com/f-buisson/Morph0/blob/main/docs/MORPH0_PROJECT.md) |
 | **🛒 Solidarity Shopping Cart (aka Trolley)** | Mechanical mutual-aid cart: energy recovered from light users helps next heavy users (low-tech, no electronics). | **Concept published • open hardware** | [Repo](https://github.com/f-buisson/Solidarity-Shopping-Cart-aka-Trolley) |
