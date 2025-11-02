@@ -1,7 +1,6 @@
 <div align="center">
 
 [![Dual Licence](https://img.shields.io/badge/License-Dual%20%7C%20CERN--OHL--S%20%2B%20CC--BY--NC--SA_4.0-blue)](governance/DUAL_LICENSE.md)
-[![Commercial](https://img.shields.io/badge/Commercial%20Use-€4000%2Fyr-blue)](governance/COMMERCIAL_LICENSE_EN.md)
 
 # 👋 Hey, I’m **Fabien Buisson**
 
