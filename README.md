@@ -16,6 +16,7 @@
 
 | Project | TL;DR | Status | Docs |
 |---------|-------|--------|------|
+| **🧠 BioSym** | Symbiotic, modular, open framework to connect water + energy + storage + IA (grids). Concept to be developed. | **Concept • fully documented** | **[Repo (BioSym)](https://github.com/f-buisson/BioSym)** · [Vision](docs/Vision.md) |
 | **🔆 Solar Flare** | Foldable solar concentrator (Fresnel lens + parabolic mirrors). V1 prototype, functional but experimental. | **Prototype V1.1 • open hardware** | [Repo](https://github.com/f-buisson/Solar-Flare) |
 | **🎈 Plushie – breathe with me** | Interactive plush that breathes, stops, then revives with chest compressions (calm-breathing & CPR tool). | **Active • makers welcome** | [Repo](https://github.com/f-buisson/plushie-breathe-with-me) · [Tech overview](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/tech/DOUDOU_TECH_OVERVIEW.md) |
 | **🌀 Morph0** | Modular morphing object : rods + inflatable cushions → shape-shifting platform (pillow, handle, stand…). | **Concept / R&D open** | [Repo](https://github.com/f-buisson/Morph0) · [Concept doc](https://github.com/f-buisson/Morph0/blob/main/docs/MORPH0_PROJECT.md) |
@@ -31,7 +32,7 @@
 ## 💼 Commercial use  
 
 - **Non-commercial** → CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0 ✔️  
-- **Commercial licence** → € 4 000 / year (covers **all** my repos)  / with the promo code: FIRST, get 99% off for the first buyer
+- **Commercial licence** → € 4 000 / year (covers **all** my repos)  / with the promo code: FIRST, get 99% off for the first buyer  
   – instant delivery on LemonSqueezy →  
   <https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad>  
   Sample PDF → [`COMMERCIAL_LICENSE_EN.md`](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/governance/COMMERCIAL_LICENSE_EN.md)
@@ -40,6 +41,7 @@
 
 ## 🧩 Looking for…
 
+- 🧠 **System / AI / control** people to help structure **BioSym** (grid orchestration, rules, low-power logic).  
 - 🛠️ **FabLab / maker** partners (Plushie mechanics, sewing, micro-pump).  
 - 🔥 DIYers & engineers for **Solar Flare** (folding mirrors, compact design, thermal safety).  
 - 🎮 Soft-robotics or BLE devs for **Morph0**.  
@@ -51,16 +53,17 @@
 
 | Projet | Description & état |
 |--------|--------------------|
+| **🧠 BioSym** | Cadre conceptuel open-source pour relier des modules d’eau, d’énergie, de stockage et de traitement via des “grids” thématiques + orchestration IA/humaine. Pas de proto pour le moment, mais docs complètes (`docs/`). |
 | **🔆 Solar Flare** | Concentrateur solaire pliable (lentille de Fresnel + miroirs paraboliques). Version V1.1 fonctionnelle en prototype expérimental. |
 | **Plushie – Respire avec moi** | Doudou biomimétique qui respire, “s’éteint” puis se réanime via massage cardiaque ; outil pédagogique & réconfortant. **Actif – recherche makers**. |
 | **Morph0** | Objet modulaire à tiges + coussins gonflables capable de changer de forme (poignée, coussin, support, jouet). **Concept en R&D ouverte**. |
-| **🛒 Solidarity Shopping Cart (aka Trolley)** | Caddie mécanique solidaire : énergie récupérée des petits caddies pour aider les futurs gros caddies. **Concept publié • open hardware**. |
-| **🌱 Plant-powered Dynamo** | Expérimentation pédagogique/artistique : croissance lente des plantes pour entraîner une dynamo symbolique. **Expérimental – documentation publiée**. |
-| **🧲 Energy Curtain** | Paroi textile semi-transparente auto-réparatrice avec mini-dynamos : récupère symboliquement l’énergie des passages piétons. **Expérimental – documentation publiée**. |
+| **🛒 Caddie solidaire** | Caddie mécanique solidaire : énergie récupérée des petits caddies pour aider les futurs gros caddies. **Concept publié • open hardware**. |
+| **🌱 Dynamo végétale** | Expérimentation pédagogique/artistique : croissance lente des plantes pour entraîner une dynamo symbolique. **Expérimental – documentation publiée**. |
+| **🧲 Rideau d’énergie** | Paroi textile semi-transparente auto-réparatrice avec mini-dynamos : récupère symboliquement l’énergie des passages piétons. **Expérimental – documentation publiée**. |
 | **SCGFAMP (archivé)** | Pompe gravito-flottante cyclique expérimentale ; complexe à industrialiser pour l’instant, mais libre à l’étude. |
 
 Licence non-commerciale **CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0**,  
-licence commerciale unique **4 000 €/an** (couvre tous les dépôts). (code promo : FIRST , 99% de réduction pour le premier acheteur)
+licence commerciale unique **4 000 €/an** (couvre tous les dépôts). (code promo : `FIRST` , 99% de réduction pour le premier acheteur)
 
 ---
 
