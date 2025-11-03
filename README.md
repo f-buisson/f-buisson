@@ -32,7 +32,6 @@
 
 - **Non-commercial** → CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0 ✔️  
 - **Commercial licence** → <https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad>  
-  Sample PDF → [`COMMERCIAL_LICENSE_EN.md`](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/governance/COMMERCIAL_LICENSE_EN.md)
 
 ---
 
@@ -60,7 +59,7 @@
 | **SCGFAMP (archivé)** | Pompe gravito-flottante cyclique expérimentale ; complexe à industrialiser pour l’instant, mais libre à l’étude. |
 
 Licence non-commerciale **CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0**,  
-licence commerciale unique (couvre tous les dépôts). (code promo : `FIRST` , 99% de réduction pour le premier acheteur)
+licence commerciale unique (couvre tous les dépôts).
 
 ---
 
