@@ -1,5 +1,6 @@
 <div align="center">
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-ee4e8b?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 [![Dual Licence](https://img.shields.io/badge/License-Dual%20%7C%20CERN--OHL--S%20%2B%20CC--BY--NC--SA_4.0-blue)](governance/DUAL_LICENSE.md)
 
 # 👋 Hey, I’m **Fabien Buisson**
@@ -62,5 +63,30 @@ Licence non-commerciale **CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0**,
 licence commerciale unique (couvre tous les dépôts).
 
 ---
+
+### 🫶 Soutenir ce projet / Support this project
+
+**FR :**  
+Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
+Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
+👉 https://github.com/sponsors/f-buisson  
+Chaque contribution (même symbolique) permet de :
+- financer les matériaux nécessaires
+- développer et tester les prototypes
+- couvrir les licences logicielles (SolidWorks, etc.)
+
+Merci pour ton soutien ✦
+
+**EN :**  
+I release these projects as **open-hardware**, so anyone can study, adapt, and rebuild them freely.  
+If you'd like to help the development continue and support new prototypes:  
+👉 https://github.com/sponsors/f-buisson  
+Even a symbolic contribution helps to:
+- fund necessary materials
+- develop and test prototypes
+- cover software licensing fees (SolidWorks, etc.)
+
+Thank you for your support ✦
+
 
 _Thanks for passing by — stars, issues and PRs are welcome!_
