@@ -30,7 +30,7 @@
 | **🛒 Solidarity Shopping Cart (aka Trolley)** | Mechanical mutual-aid cart: energy recovered from light users helps next heavy users (low-tech, no electronics). | **Concept published • open hardware** | [Repo](https://github.com/f-buisson/Solidarity-Shopping-Cart-aka-Trolley) |
 | **🌱 Plant-powered Dynamo** | Educational/artistic experiment: plant growth drives ultra-slow pulley + dynamo (symbolic mechanical harvesting). | **Experimental / documentation published** | [Repo](https://github.com/f-buisson/Plant-powered_Dynamo) |
 | **🧲 Energy Curtain** | Transparent flexible curtain with self-closing magnets and micro-dynamos: recover micro-energy from pedestrian flow. | **Experimental / documentation published** | [Repo](https://github.com/f-buisson/Energy-Curtain) |
-| **♻️ SCGFAMP** | Cyclic gravito-flotation pump with passive magnets. | **🔒 Archived (Jul 2025)** | [Archive](https://github.com/f-buisson/SCGFAMP-ARCHIVED) · [Reddit critique](https://www.reddit.com/r/lowtech/comments/1lq7z74/) |
+| **♻️ SCGFAMP** | Cyclic gravito-flotation pump with passive magnets. | **🔒 Archived (Jul 2025)** | [Archive](https://github.com/f-buisson/SCGFAMP-ARCHIVED) |
 
 > 🇫🇷 _Résumé français plus bas._
 
