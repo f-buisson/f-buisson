@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/img/banner.png" width="800">
+</p>
+
 <div align="center">
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
