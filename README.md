@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/img/banner.png" alt="Fabien Buisson open-hardware banner" width="800">
+  <img src="docs/img/banner.png" alt="Fabien Buisson open-hardware banner" width="400">
 </p>
 
 # Fabien Buisson  
@@ -7,7 +7,7 @@ Open-hardware designer & low-tech systems maker
 
 > I build practical, low-energy systems for learning, repair and sustainability.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-on-GitHub-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 
 [![Dual Licence](https://img.shields.io/badge/License-Dual%20%7C%20CERN--OHL--S%20%2B%20CC--BY--NC--SA_4.0-blue)](governance/DUAL_LICENSE.md)
 
