@@ -37,10 +37,13 @@ This project is **open-hardware**: you are free to learn from it, modify it, rep
   (CERN-OHL-S 2.0 + CC BY-NC-SA 4.0)
 
 - **Professional / commercial use** → requires a **dedicated licence**  
-  (to support continued development, cover R&D, and prevent misuse)  
+  (to support ongoing development, cover R&D costs, and prevent misuse)  
   👉 https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
 
-> **Note:** A commercial-use license is **automatically included** for sponsors at the **$350/month** tier on GitHub Sponsors.
+> **Note:** Commercial-use permission is **automatically granted** while an active  
+GitHub Sponsorship at the **$350/month tier (or higher)** is maintained.  
+If the sponsorship is downgraded or cancelled, the permission **immediately ends**.  
+No retroactive or continuing rights are provided after cancellation.
 
 ---
 
