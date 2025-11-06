@@ -1,9 +1,8 @@
 <p align="center">
   <img src="docs/img/banner.png" alt="Fabien Buisson open-hardware banner" width="400">
 </p>
-
-# Fabien Buisson  
-Open-hardware designer & low-tech systems maker
+  
+# Open-hardware designer & low-tech systems maker
 
 > I build practical, low-energy systems for learning, repair and sustainability.
 
