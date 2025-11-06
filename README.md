@@ -62,6 +62,34 @@ No retroactive or continuing rights are provided after cancellation.
 - 🎮 Soft-robotics or BLE devs for **Morph0**.  
 - 🌍 Translators, educators, feedback—all welcome!
 
+_Thanks for passing by — stars, issues and PRs are welcome!_
+
+---
+
+### 🫶 Support this project / Soutenir ce projet
+
+**EN :**  
+I release these projects as **open-hardware**, so anyone can study, adapt, and rebuild them freely.  
+If you'd like to help the development continue and support new prototypes:  
+👉 https://github.com/sponsors/f-buisson  
+Even a symbolic contribution helps to:
+- fund necessary materials
+- develop and test prototypes
+- cover software licensing fees (SolidWorks, etc.)
+
+Thank you for your support ✦
+
+**FR :**  
+Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
+Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
+👉 https://github.com/sponsors/f-buisson  
+Chaque contribution (même symbolique) permet de :
+- financer les matériaux nécessaires
+- développer et tester les prototypes
+- couvrir les licences logicielles (SolidWorks, etc.)
+
+Merci pour ton soutien ✦
+
 ---
 
 ## 🇫🇷 Résumé rapide
@@ -79,32 +107,3 @@ No retroactive or continuing rights are provided after cancellation.
 
 Licence non-commerciale **CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0**,  
 licence commerciale unique (couvre tous les dépôts).
-
----
-
-### 🫶 Soutenir ce projet / Support this project
-
-**FR :**  
-Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
-Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
-👉 https://github.com/sponsors/f-buisson  
-Chaque contribution (même symbolique) permet de :
-- financer les matériaux nécessaires
-- développer et tester les prototypes
-- couvrir les licences logicielles (SolidWorks, etc.)
-
-Merci pour ton soutien ✦
-
-**EN :**  
-I release these projects as **open-hardware**, so anyone can study, adapt, and rebuild them freely.  
-If you'd like to help the development continue and support new prototypes:  
-👉 https://github.com/sponsors/f-buisson  
-Even a symbolic contribution helps to:
-- fund necessary materials
-- develop and test prototypes
-- cover software licensing fees (SolidWorks, etc.)
-
-Thank you for your support ✦
-
-
-_Thanks for passing by — stars, issues and PRs are welcome!_
