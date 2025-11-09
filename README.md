@@ -24,7 +24,7 @@
 | Project | TL;DR | Status | Docs |
 |---------|-------|--------|------|
 | **🧠 BioSym** | Symbiotic, modular, open framework to connect water + energy + storage + IA (grids). Concept to be developed. | **Concept • fully documented** | **[Repo (BioSym)](https://github.com/f-buisson/BioSym)** · [Vision](docs/Vision.md) |
-| **🔆 Solar Flare** | Foldable solar concentrator (Fresnel lens + parabolic mirrors). V1 prototype, functional but experimental. | **Prototype V1.1 • open hardware** | [Repo](https://github.com/f-buisson/Solar-Flare) |
+| **🔆 Solar Flare** | Foldable solar concentrator (Fresnel lens + parabolic mirrors). V1 prototype, functional but experimental. | **Prototype V1.2 • open hardware** | [Repo](https://github.com/f-buisson/Solar-Flare) |
 | **🎈 Plushie – breathe with me** | Interactive plush that breathes, stops, then revives with chest compressions (calm-breathing & CPR tool). | **Active • makers welcome** | [Repo](https://github.com/f-buisson/plushie-breathe-with-me) · [Tech overview](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/tech/DOUDOU_TECH_OVERVIEW.md) |
 | **🌀 Morph0** | Modular morphing object : rods + inflatable cushions → shape-shifting platform (pillow, handle, stand…). | **Concept / R&D open** | [Repo](https://github.com/f-buisson/Morph0) · [Concept doc](https://github.com/f-buisson/Morph0/blob/main/docs/MORPH0_PROJECT.md) |
 | **🛒 Solidarity Shopping Cart (aka Trolley)** | Mechanical mutual-aid cart: energy recovered from light users helps next heavy users (low-tech, no electronics). | **Concept published • open hardware** | [Repo](https://github.com/f-buisson/Solidarity-Shopping-Cart-aka-Trolley) |
@@ -97,7 +97,7 @@ Merci pour ton soutien ✦
 | Projet | Description & état |
 |--------|--------------------|
 | **🧠 BioSym** | Cadre conceptuel open-source pour relier des modules d’eau, d’énergie, de stockage et de traitement via des “grids” thématiques + orchestration IA/humaine. Pas de proto pour le moment, mais docs complètes (`docs/`). |
-| **🔆 Solar Flare** | Concentrateur solaire pliable (lentille de Fresnel + miroirs paraboliques). Version V1.1 fonctionnelle en prototype expérimental. |
+| **🔆 Solar Flare** | Concentrateur solaire pliable (lentille de Fresnel + miroirs paraboliques). Version V1.2 fonctionnelle en prototype expérimental. |
 | **Plushie – Respire avec moi** | Doudou biomimétique qui respire, “s’éteint” puis se réanime via massage cardiaque ; outil pédagogique & réconfortant. **Actif – recherche makers**. |
 | **Morph0** | Objet modulaire à tiges + coussins gonflables capable de changer de forme (poignée, coussin, support, jouet). **Concept en R&D ouverte**. |
 | **🛒 Caddie solidaire** | Caddie mécanique solidaire : énergie récupérée des petits caddies pour aider les futurs gros caddies. **Concept publié • open hardware**. |
