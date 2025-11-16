@@ -23,6 +23,7 @@
 
 | Project | TL;DR | Status | Docs |
 |---------|-------|--------|------|
+| **🏋️ SolarLift** | Thermal-gravity storage using solar heat (air, water or thermal-fluid expansion → lifting a weight). Early concept, fully documented. | **Concept • new** | [Repo](https://github.com/f-buisson/SolarLift) |
 | **🧠 BioSym** | Symbiotic, modular, open framework to connect water + energy + storage + IA (grids). Concept to be developed. | **Concept • fully documented** | **[Repo (BioSym)](https://github.com/f-buisson/BioSym)** · [Vision](docs/Vision.md) |
 | **🔆 Solar Flare** | Foldable solar concentrator (Fresnel lens + parabolic mirrors). V1 prototype, functional but experimental. | **Prototype V1.2 • open hardware** | [Repo](https://github.com/f-buisson/Solar-Flare) |
 | **🎈 Plushie – breathe with me** | Interactive plush that breathes, stops, then revives with chest compressions (calm-breathing & CPR tool). | **Active • makers welcome** | [Repo](https://github.com/f-buisson/plushie-breathe-with-me) · [Tech overview](https://github.com/f-buisson/plushie-breathe-with-me/blob/main/tech/DOUDOU_TECH_OVERVIEW.md) |
@@ -96,6 +97,7 @@ Merci pour ton soutien ✦
 
 | Projet | Description & état |
 |--------|--------------------|
+| **🏋️ SolarLift** | Concept de stockage d’énergie gravitaire 100% solaire : Solar Flare chauffe un fluide → expansion → mécanisme → élévation d’un poids. Trois pistes étudiées (air chaud, vapeur, fluide à forte dilatation). **Nouveau – documentation complète**. |
 | **🧠 BioSym** | Cadre conceptuel open-source pour relier des modules d’eau, d’énergie, de stockage et de traitement via des “grids” thématiques + orchestration IA/humaine. Pas de proto pour le moment, mais docs complètes (`docs/`). |
 | **🔆 Solar Flare** | Concentrateur solaire pliable (lentille de Fresnel + miroirs paraboliques). Version V1.2 fonctionnelle en prototype expérimental. |
 | **Plushie – Respire avec moi** | Doudou biomimétique qui respire, “s’éteint” puis se réanime via massage cardiaque ; outil pédagogique & réconfortant. **Actif – recherche makers**. |
