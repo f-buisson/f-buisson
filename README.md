@@ -13,7 +13,15 @@
 # 👋 Hey, I’m **Fabien Buisson**
 
 🛠️ _Citizen-inventor_ · low-tech & open design · based in France  
-💌 **Contact** • fbuisson38550@gmail.com | scgfamp@hotmail.com • 🌐 [scgfamp.org](https://scgfamp.org)
+
+---
+
+### Contact
+
+- ✉️ Email : [fbuisson38550@gmail.com](mailto:fbuisson38550@gmail.com) · [scgfamp@hotmail.com](mailto:scgfamp@hotmail.com)
+- 🐦 X (Twitter) : [@SCGFAMP](https://x.com/SCGFAMP)
+- 🌐 Site : [scgfamp.org](https://scgfamp.org)
+
 
 </div>
 
@@ -81,17 +89,6 @@ Even a symbolic contribution helps to:
 
 Thank you for your support ✦
 
-**FR :**  
-Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
-Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
-👉 https://github.com/sponsors/f-buisson  
-Chaque contribution (même symbolique) permet de :
-- financer les matériaux nécessaires
-- développer et tester les prototypes
-- couvrir les licences logicielles (SolidWorks, etc.)
-
-Merci pour ton soutien ✦
-
 ---
 
 ## 🇫🇷 Résumé rapide
@@ -111,3 +108,24 @@ Merci pour ton soutien ✦
 
 Licence non-commerciale **CERN-OHL-S 2.0 / CC-BY-NC-SA 4.0**,  
 licence commerciale unique (couvre tous les dépôts).
+
+---
+
+### Contact / collaboration
+
+Questions, idées, envie de contribuer ?
+
+- 🐦 X : [@SCGFAMP](https://x.com/SCGFAMP)
+- ✉️ Email : [fbuisson38550@gmail.com](mailto:fbuisson38550@gmail.com)
+
+Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
+Si tu souhaites contribuer à leur évolution et à la création de nouveaux prototypes :  
+
+- 👉 https://github.com/sponsors/f-buisson
+
+Chaque contribution (même symbolique) permet de :
+- financer les matériaux nécessaires
+- développer et tester les prototypes
+- couvrir les licences logicielles (SolidWorks, etc.)
+
+Merci pour ton soutien ✦
