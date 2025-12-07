@@ -76,12 +76,13 @@ _Thanks for passing by — stars, issues and PRs are welcome!_
 
 ---
 
-### 🫶 Support this project / Soutenir ce projet
+### 🫶 Support this project
 
-**EN :**  
 I release these projects as **open-hardware**, so anyone can study, adapt, and rebuild them freely.  
 If you'd like to help the development continue and support new prototypes:  
-👉 https://github.com/sponsors/f-buisson  
+
+👉 https://github.com/sponsors/f-buisson
+
 Even a symbolic contribution helps to:
 - fund necessary materials
 - develop and test prototypes
