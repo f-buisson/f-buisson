@@ -44,6 +44,15 @@ Main site: `f-buisson.com` — in preparation.
 
 ---
 
+## Support
+
+GitHub Sponsors is open for anyone who wants to support the open-source software and the public R&D projects listed above:
+[github.com/sponsors/f-buisson](https://github.com/sponsors/f-buisson)
+
+Sponsoring is entirely optional. It grants no commercial rights, no licence and no product access. Commercial products are sold separately.
+
+---
+
 ## Contact
 
 - GitHub: [@f-buisson](https://github.com/f-buisson)
