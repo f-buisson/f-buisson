@@ -18,10 +18,7 @@
 
 ### Contact
 
-- ✉️ Email : [fbuisson38550@gmail.com](mailto:fbuisson38550@gmail.com) · [scgfamp@hotmail.com](mailto:scgfamp@hotmail.com)
-- 🐦 X (Twitter) : [@SCGFAMP](https://x.com/SCGFAMP)
-- 🌐 Site : [scgfamp.org](https://scgfamp.org)
-
+- ✉️ Email : [fbuisson38550@gmail.com](mailto:fbuisson38550@gmail.com)
 
 </div>
 
@@ -116,7 +113,6 @@ licence commerciale unique (couvre tous les dépôts).
 
 Questions, idées, envie de contribuer ?
 
-- 🐦 X : [@SCGFAMP](https://x.com/SCGFAMP)
 - ✉️ Email : [fbuisson38550@gmail.com](mailto:fbuisson38550@gmail.com)
 
 Je publie ces projets en **open-hardware**, pour que chacun puisse les comprendre, les adapter et les reconstruire librement.  
