@@ -1,59 +1,82 @@
-# Fabien Buisson — F-Buisson
+<div align="center">
 
-Independent software publisher building practical tools for retail operations.
+# F-Buisson
 
----
+### Logiciels métier simples pour les opérations terrain
 
-## Current software
+**Retail · Planning · Contrôle des prix · Renforts entre services**
 
-### PriceGuard
+[Site web](https://f-buisson.com) · [Contact](mailto:contact@f-buisson.com)
 
-Retail price, margin and data-quality monitoring.
-
-**Status:** preparing the public Community release.
-
-### PlanSuite
-
-Workforce and retail operations software, including **PlanCaisse** for checkout-team planning.
-
-**Status:** private development.
+</div>
 
 ---
 
-## Selected R&D
+## Logiciels
 
-Earlier open-hardware work, kept public for reference:
+<table>
+<tr>
+<td width="96" align="center">
+<img src="https://raw.githubusercontent.com/f-buisson/f-buisson-site/main/public/brand/alertarif-icon.png" width="72" alt="Logo Alertarif">
+</td>
+<td>
+<h3>Alertarif</h3>
+<strong>Vos prix sous contrôle.</strong><br>
+Surveillance des prix, promotions, marges et qualité des données pour les commerces. Les résultats restent expliqués et les limites des données sont signalées.
+</td>
+</tr>
+<tr>
+<td width="96" align="center">
+<img src="https://raw.githubusercontent.com/f-buisson/f-buisson-site/main/public/brand/plancaisse-icon.png" width="72" alt="Logo PlanCaisse">
+</td>
+<td>
+<h3>PlanCaisse</h3>
+<strong>Les bonnes personnes, au bon moment.</strong><br>
+Planning des équipes caisse construit autour des besoins réels, des contrats et des contraintes opérationnelles, avec des propositions explicables et modifiables par le manager.
+</td>
+</tr>
+<tr>
+<td width="96" align="center">
+<img src="https://raw.githubusercontent.com/f-buisson/f-buisson-site/main/public/brand/planflux-icon.png" width="72" alt="Logo PlanFlux">
+</td>
+<td>
+<h3>PlanFlux</h3>
+<strong>Le registre des renforts entre services.</strong><br>
+Enregistre les renforts réellement effectués : salarié, service d'origine, service renforcé, horaires, durée et motif. V1 conçue pour fonctionner de manière autonome.
+</td>
+</tr>
+</table>
 
-- **[Solar Flare](https://github.com/f-buisson/Solar-Flare)** — foldable solar concentrator (Fresnel lens and parabolic mirrors). SOLIDWORKS V1.3, with drawings and measurements.
-- **[Plushie — breathe with me](https://github.com/f-buisson/plushie-breathe-with-me)** — interactive plush simulating breathing and chest compressions, as a calm-breathing and CPR-awareness concept.
+> Les applications commerciales sont développées dans des dépôts privés. Cette page présente les produits sans exposer leur code source.
 
 ---
 
-## About
+## Principes
 
-- Software built around real operational problems rather than generic frameworks.
-- Tools that stay simple and explainable: the person using them should be able to understand why the software decided what it decided.
-- Focus on retail and field operations.
-- Designed, developed and maintained under the **F-Buisson** identity.
-
----
-
-## Website
-
-Main site: `f-buisson.com` — in preparation.
+- **Partir du terrain** — résoudre un problème opérationnel concret avant d'ajouter des fonctions.
+- **Rester compréhensible** — les décisions et résultats du logiciel doivent pouvoir être expliqués.
+- **Garder l'humain aux commandes** — automatiser le travail répétitif sans retirer la décision au responsable.
+- **Faire simple à utiliser** — réduire la formation nécessaire et rendre les parcours explicites.
 
 ---
 
-## Support
+## R&D publique
 
-GitHub Sponsors is open for anyone who wants to support the open-source software and the public R&D projects listed above:
-[github.com/sponsors/f-buisson](https://github.com/sponsors/f-buisson)
+Des projets plus anciens restent disponibles publiquement comme travaux de recherche et de prototypage :
 
-Sponsoring is entirely optional. It grants no commercial rights, no licence and no product access. Commercial products are sold separately.
+- **[Solar Flare](https://github.com/f-buisson/Solar-Flare)** — concentrateur solaire pliable utilisant lentille de Fresnel et miroirs paraboliques ; conception SOLIDWORKS, plans et mesures.
+- **[Plushie — breathe with me](https://github.com/f-buisson/plushie-breathe-with-me)** — concept de peluche interactive simulant respiration et compressions thoraciques pour respiration calme et sensibilisation à la RCP.
 
 ---
 
-## Contact
+## F-Buisson
 
-- GitHub: [@f-buisson](https://github.com/f-buisson)
-- Email: <fbuisson38550@gmail.com>
+F-Buisson est un éditeur indépendant de logiciels métier, avec un focus sur le commerce et les opérations terrain.
+
+🌐 **[f-buisson.com](https://f-buisson.com)**  
+✉️ **[contact@f-buisson.com](mailto:contact@f-buisson.com)**  
+💻 **[@f-buisson](https://github.com/f-buisson)**
+
+---
+
+<sub>Les projets commerciaux et les projets open source sont distribués séparément et selon leurs licences respectives.</sub>
