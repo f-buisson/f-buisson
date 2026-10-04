@@ -90,6 +90,8 @@ OpenRetailSchema is designed to let applications integrate with multiple POS sys
 
 Public work is kept inspectable and evidence-led; private research stays separate until it is mature enough to publish.
 
+**Technology partnerships:** F-Buisson develops its own R&D projects. Industrial companies, manufacturers and research organisations interested in validating, prototyping, industrialising or exploiting one of these technologies can get in touch at [contact@f-buisson.com](mailto:contact@f-buisson.com). Commissioned third-party R&D projects are not offered.
+
 ### [Solar Flare](https://github.com/f-buisson/Solar-Flare)
 Foldable solar concentrator research using a Fresnel lens and parabolic mirrors, with SOLIDWORKS design work, plans and measurements.
 
@@ -122,6 +124,8 @@ Le projet est en développement précoce. Une intégration catalogue Loyverse vi
 Les contributions sont bienvenues, notamment pour la documentation d'API POS, les capacités vérifiées, les revues de schémas et les exemples synthétiques. Aucun identifiant, jeton ni donnée réelle de magasin ne doit être partagé.
 
 ### R&D publique
+
+**Partenariats technologiques :** F-Buisson développe exclusivement ses propres projets de R&D. Les industriels, fabricants et laboratoires intéressés par la validation, le prototypage, l’industrialisation ou l’exploitation de l’une de ces technologies peuvent écrire à [contact@f-buisson.com](mailto:contact@f-buisson.com). F-Buisson ne réalise pas de projets de R&D sur commande pour des tiers.
 
 **[Solar Flare](https://github.com/f-buisson/Solar-Flare)** documente une recherche de concentrateur solaire pliable. **[Plushie — breathe with me](https://github.com/f-buisson/plushie-breathe-with-me)** documente un concept open hardware centré sur la respiration guidée et la sensibilisation à la RCP.
 
