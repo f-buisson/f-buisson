@@ -4,17 +4,17 @@
 
 # F-Buisson
 
-### Independent software publisher building practical retail tools and open POS interoperability infrastructure
+### Independent software publisher for retail operations, open POS interoperability and applied R&D
 
-**Retail operations · Workforce planning · Price control · POS interoperability**
+**Retail operations · Workforce planning · Price control · POS interoperability · Applied R&D**
 
-[Website](https://f-buisson.com) · [OpenRetailSchema](https://github.com/f-buisson/OpenRetailSchema) · [Contact](mailto:contact@f-buisson.com) · [Français](#français)
+[Website](https://f-buisson.com) · [OpenRetailSchema](https://github.com/f-buisson/OpenRetailSchema) · [Public R&D](#open-source--public-rd) · [Contact](mailto:contact@f-buisson.com) · [Français](#français)
 
 </div>
 
 ---
 
-## Currently building
+## Featured open-source work
 
 ### [OpenRetailSchema](https://github.com/f-buisson/OpenRetailSchema)
 
@@ -76,7 +76,9 @@ OpenRetailSchema is designed to let applications integrate with multiple POS sys
 
 ---
 
-## Public R&D
+## Open source & public R&D
+
+Public work is kept inspectable and evidence-led; private research stays separate until it is mature enough to publish.
 
 ### [Solar Flare](https://github.com/f-buisson/Solar-Flare)
 Foldable solar concentrator research using a Fresnel lens and parabolic mirrors, with SOLIDWORKS design work, plans and measurements.
@@ -93,7 +95,7 @@ Interactive plush concept simulating breathing and chest compressions for calm-b
 
 <br>
 
-**F-Buisson** développe des logiciels métier simples pour le commerce et les opérations terrain.
+**F-Buisson** développe des logiciels métier pour le commerce, une infrastructure ouverte d’interopérabilité POS et des projets de R&D appliquée.
 
 Le projet open source principal est **[OpenRetailSchema](https://github.com/f-buisson/OpenRetailSchema)** : une couche d'interopérabilité ouverte destinée à normaliser les données issues de différents logiciels de caisse / POS afin qu'une intégration puisse être réutilisée par plusieurs applications.
 
@@ -108,6 +110,10 @@ Le projet open source principal est **[OpenRetailSchema](https://github.com/f-bu
 Le projet est en développement précoce. Une intégration catalogue Loyverse via jeton personnel autorisé a déjà été testée dans un autre produit F-Buisson, mais le connecteur OpenRetailSchema lui-même reste expérimental et n'est pas encore présenté comme certifié en conditions réelles.
 
 Les contributions sont bienvenues, notamment pour la documentation d'API POS, les capacités vérifiées, les revues de schémas et les exemples synthétiques. Aucun identifiant, jeton ni donnée réelle de magasin ne doit être partagé.
+
+### R&D publique
+
+**[Solar Flare](https://github.com/f-buisson/Solar-Flare)** documente une recherche de concentrateur solaire pliable. **[Plushie — breathe with me](https://github.com/f-buisson/plushie-breathe-with-me)** documente un concept open hardware centré sur la respiration guidée et la sensibilisation à la RCP.
 
 </details>
 
