@@ -62,6 +62,16 @@ OpenRetailSchema is designed to let applications integrate with multiple POS sys
 </tr>
 </table>
 
+### Product previews
+
+<p align="center">
+  <a href="https://f-buisson.com/alertarif"><img src="https://f-buisson.com/screenshots/alertarif-dashboard.png" alt="Alertarif dashboard" width="32%"></a>
+  <a href="https://f-buisson.com/plancaisse"><img src="https://f-buisson.com/screenshots/plancaisse-planning.png" alt="PlanCaisse planning" width="32%"></a>
+  <a href="https://f-buisson.com/planflux"><img src="https://f-buisson.com/screenshots/planflux-dashboard.png" alt="PlanFlux dashboard" width="32%"></a>
+</p>
+
+<p align="center"><sub>Real application interfaces shown with synthetic demonstration data.</sub></p>
+
 > Commercial applications are developed in private repositories. Public repositories expose open-source work, public R&D, documentation and selected shared foundations only.
 
 ---
