@@ -8,7 +8,7 @@
 
 **Retail operations · Workforce planning · Price control · POS interoperability · Applied R&D**
 
-[Website](https://f-buisson.com) · [OpenRetailSchema](https://github.com/f-buisson/OpenRetailSchema) · [Public R&D](#open-source--public-rd) · [Contact](mailto:contact@f-buisson.com) · [Français](#français)
+[Website](https://f-buisson.com) · [Open source & R&D](https://f-buisson.com/open-source) · [OpenRetailSchema](https://github.com/f-buisson/OpenRetailSchema) · [Contact](mailto:contact@f-buisson.com) · [Français](#français)
 
 </div>
 
@@ -124,6 +124,7 @@ Les contributions sont bienvenues, notamment pour la documentation d'API POS, le
 ### F-Buisson
 
 [**f-buisson.com**](https://f-buisson.com) ·
+[**Open source & R&D**](https://f-buisson.com/open-source) ·
 [**OpenRetailSchema**](https://github.com/f-buisson/OpenRetailSchema) ·
 [**contact@f-buisson.com**](mailto:contact@f-buisson.com)
 
